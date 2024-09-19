@@ -16,7 +16,7 @@ VK: https://vk.com/doubs_lock
 
 Telephon: +7 (931) 325-64-13
 
-HH.ru: 
+HH.ru: https://spb.hh.ru/resume/6db04aa2ff0cdc94df0039ed1f554675623961
 
 <!--
 **lomalo890/lomalo890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
